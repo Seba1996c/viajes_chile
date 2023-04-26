@@ -29,5 +29,5 @@ $(document).ready(function () {
 
 let botonEnviar = document.querySelector(".botonEnviar");
 botonEnviar.addEventListener("click", function () {
-  alert("Mensaje Enviado con exito...");
+  alert("Mensaje Enviado con exito");
 });
