@@ -33,7 +33,3 @@ Google Fonts
 Clonar este repositorio o descargarlo como ZIP y extraerlo en su computadora.
 Abrir el archivo index.html en un navegador web moderno.
 Navegar por las diferentes secciones del sitio y disfrutar de su contenido.
-
-# Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulte el archivo LICENSE para obtener más información.
