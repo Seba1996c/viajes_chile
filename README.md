@@ -1,12 +1,14 @@
 # Viajes Chile
 
+Pages : https://seba1996c.github.io/viajes_chile/
+
 Viajes Chile es una página web que ofrece información sobre destinos turísticos en Chile. La página presenta una barra de navegación superior, un carrusel de imágenes destacadas, información sobre la empresa y sus servicios, una sección de destinos destacados y un formulario de contacto. El sitio está diseñado con un enfoque móvil y es completamente adaptable a diferentes dispositivos y tamaños de pantalla.
 
 # Contenido
 
 1. Características
 2. Tecnologías utilizadas
-3: Cómo utilizar
+3. Cómo utilizar
 
 # Características
 
