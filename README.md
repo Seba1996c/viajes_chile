@@ -4,10 +4,9 @@ Viajes Chile es una página web que ofrece información sobre destinos turístic
 
 # Contenido
 
-Características
-Tecnologías utilizadas
-Cómo utilizar
-Licencia
+1. Características
+2. Tecnologías utilizadas
+3: Cómo utilizar
 
 # Características
 
@@ -21,12 +20,12 @@ Integración con redes sociales.
 
 # Tecnologías utilizadas
 
-HTML5
-CSS3
-JavaScript
-Bootstrap 5
-Font Awesome
-Google Fonts
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5
+- Font Awesome
+- Google Fonts
 
 # Cómo utilizar
 
