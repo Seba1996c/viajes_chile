@@ -1,0 +1,45 @@
+body {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+  background-color: transparent;
+  position: fixed;
+  width: 100vw;
+  z-index: 1;
+}
+
+.tituloNavbar {
+  font-family: 'Major Mono Display', monospace;
+}
+
+.boton-carrusel {
+  width: 6%;
+}
+
+#quienesSomos i {
+  background-color: #4cc9f0;
+  width: 410px;
+}
+
+#destacados {
+  background-color: black;
+}
+
+.card-body {
+  background-color: #4cc9f0;
+}
+
+.card-body p {
+  font-size: 1em;
+}
+
+.footer {
+  font-family: "Major Mono Display", monospace;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+}
